@@ -4,6 +4,8 @@ The PhraseExtractor Program
 Coded by Matt Lisivick
 2014
 
+This program was written as a collegiate project in my junior year. I hope to update it in the near future. As of now, the processing can be slow due to the lazy parse algorithm.
+
 This Java based program extracts phrases from given text based on a part of speech pattern as defined by Turney (2002).
 The POS tagger used in this program is a model based on the Stanford POS Tagger v3.1, Maxent Tagger.
 The program takes an argument that selects the input text file and outputs a file named '[Input TXT File]-extractedPhrases'.
